@@ -1,4 +1,4 @@
-# sql-task
+# GYM-MANAGEMENT SYSTEM-SQL
 Welcome to my SQL repository! This repository showcases my SQL learning journey and practical skills in querying, analyzing, and managing data. It includes SQL queries and practice exercises covering data retrieval, filtering, sorting, aggregate functions, joins, subqueries, and data analysis techniques.
 This project focuses on designing a relational database for a Gym Management System using MySQL. It organizes and manages essential gym operations, including member registration, trainer information, gym classes, membership plans, and payment details.
 
